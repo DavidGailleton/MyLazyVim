@@ -6,6 +6,7 @@ return {
         python = { "black" },
         c = { "clang_format" },
         json = { "jq" },
+        rust = { "rustfmt" },
       },
       formatters = {
         black = {
